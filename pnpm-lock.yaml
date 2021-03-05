@@ -1996,5 +1996,5 @@ specifiers:
   rollup-plugin-terser: ^7.0.0
   sapper: ^0.29.0
   sirv: ^1.0.0
-  svelte: ^3.17.3
-  svelte-windicss-preprocess: ^2.2.1
+  svelte: ^3.0.0
+  svelte-windicss-preprocess: ^2.0.0
